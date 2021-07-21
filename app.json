@@ -1,7 +1,7 @@
 {
-  "name": "AspNet5DemoApp",
+  "name": "AspNetCoreDemoApp",
   "description": "Demo app on ASP.NET Core",
-  "repository": "https://github.com/ap10001/AspNet5DemoApp",
+  "repository": "https://github.com/ap10001/AspNetCoreDemoApp",
   "keywords": ["aspnet", "core"],
   "stack": "heroku-20",
   "buildpacks": [
